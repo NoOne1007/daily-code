@@ -21,12 +21,13 @@ Starting simple. Focus is consistency.
 
 ### finally overrides return
 
+```
 def f():
     try:
         return 10
     finally:
         return 20
-
+```
 Output: 20
 
 Insight:
