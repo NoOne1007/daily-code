@@ -8,30 +8,13 @@
   * `file_1.py`
   * `file_2.py`
 
----
-
-## Code Structure
-
-### file_1.py
-
-* Prints its `__name__`
-* Contains a check for direct execution
-
-### file_2.py
-
-* Imports `file_1`
-* Prints its own `__name__`
-* Contains a check for direct execution
+* Created three files to understand behavior during direct execution vs import:
+  * `file_a.py`
+  * `file_b.py`
+  * `file_c.py`
 
 ---
 
-## Output (when running file_2.py)
-```
-file_1 name: file_1
-file_2 name: **main**
-file_2 is being run directly
-```
----
 
 ## Key Learning
 
@@ -60,3 +43,4 @@ file_2 is being run directly
 
 * Important concept for writing modular and reusable Python code
 * Will be useful when working on larger projects
+* Python executes code top-to-bottom. When it encounters an import statement, it pauses the current module, executes the imported module once, then resumes execution
