@@ -1,7 +1,8 @@
 # Day 3
 
-## What I Did
+## 1. Titanic Survival Analysis
 
+### What I did
 * Performed EDA on Titanic dataset
 * Built a basic Logistic Regression model
 
@@ -9,7 +10,7 @@
 
 https://www.kaggle.com/c/titanic/data
 
-## Key Findings
+## Observations
 
 * Females had higher survival rate
 * Young passengers had higher survival rate than older passangers
@@ -30,7 +31,3 @@ https://www.kaggle.com/c/titanic/data
 * Importance of feature selection
 * Handling missing values
 * Basic model pipeline
-
-## Time Taken
-
-~1.5–2 hours

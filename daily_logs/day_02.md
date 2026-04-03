@@ -1,11 +1,12 @@
-# Daily Log
+# Day 2
+
 ## 1. Matplotlib Practice
 
-### What I worked on
+### What I did
 Spent some time practicing basic plotting with `matplotlib.pyplot`.  
 Nothing new conceptually, just reinforcing things by actually writing the code instead of just reading.
 
-### What I did
+### Steps followed to get to the final plot
 
 - Plotted a simple line graph using monthly data (sunny days)
 - Used custom labels on the x-axis instead of default indices
