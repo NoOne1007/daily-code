@@ -36,7 +36,7 @@ I follow a structured daily learning system where I:
 
 ## 📁 Repository Structure
 
-* `daily_logs/` → Daily learning summaries
+* `daily_logs/` → Daily learnings summaries
 * `problems/` → Coding practice categorized by topic
 * `mini_projects/` → End-to-end Data Science projects
 * `notebooks/` → Exploratory work
